@@ -59,14 +59,14 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh6N2Z4bXFtc2V6ZXh1N3pncWlzY2swZHhxOHR5Mnc4N3p5ZmswMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3gV846nLCHsc1vMAsI/giphy.gif" width="35"> GitHub Core Matrix
 
-<!-- إحصائيات متوهجة ديناميكية متناسقة مع ثيم Tokyo Night الحديث -->
+<!-- تم إضافة خاصية fallback لحل مشكلة عدم الظهور وتفعيل حساب المشاريع الخاصة -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Judoka-AI&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Judoka-AI's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judoka-AI&layout=compact&theme=tokyonight&hide_border=false" alt="Judoka-AI's Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Judoka-AI&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&fallback=true" alt="Judoka-AI's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judoka-AI&layout=compact&theme=tokyonight&hide_border=false&fallback=true" alt="Judoka-AI's Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judoka-AI&theme=tokyonight&hide_border=false" alt="Judoka-AI's Streak" width="99%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judoka-AI&theme=tokyonight&hide_border=false&fallback=true" alt="Judoka-AI's Streak" width="99%" />
 </p>
 
 <br />
